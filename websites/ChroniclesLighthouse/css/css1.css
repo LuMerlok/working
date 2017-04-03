@@ -1,8 +1,7 @@
+﻿body {background-color: gray ;}
+p {background-color: white;}
 h1 {color:white;}
-h1 {background-color:rgb(96,38,0);
-       }
-
-
-h2{
-	color: #0142a2;}
-h3 {color: #00a567;}
+h1 {background-color:rgb(96,38,0);}
+h2{color: #0142a2;}
+h3{color: #00a567;}
+div {background-color: white;}
