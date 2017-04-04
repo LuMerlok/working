@@ -14,7 +14,8 @@ div i
  font-weight:bold;}
  a {text-decoration:none;
           font-weight:bold;}
-
-
+a:link {color: #8B4513;}
+a:visited {color: #FF8C00;}
+a:active {color:#D2691E;}
  
  
