@@ -1,21 +1,35 @@
 ﻿body {background-color: PapayaWhip;
      font-family: "Monotype Corsiva";}
+	
 h1 {color:SaddleBrown;
 font-size: 300%;
-text-shadow: 2px 2px 1px #FFE4B5;}
-h2{color: Sienna;
-text-shadow: 1px 1px 0px #FFE4B5;}
-h3{color: Sienna;
- text-shadow: 1px 1px 1px #FFE4B5;}
+text-shadow: 2px 2px 1px #FFE4B5;
+text-align:center;
+
+}
+h1.fiks {position:fixed; 
+}
+
 div {font-family:"Courier";
-      line-height:1.2em;}
-div i
- {color:Sienna;
- font-weight:bold;}
+      line-height:1.2em;
+	  width: 600px;
+	  border: 2px solid #CD853F;
+padding: 20px;	
+margin-left:470px; 
+margin-bottom:20px;}
  a {text-decoration:none;
           font-weight:bold;}
 a:link {color: #8B4513;}
 a:visited {color: #FF8C00;}
 a:active {color:#D2691E;}
- 
- 
+table {
+text-align: left;
+padding: 10px 10px 10px 10px;
+font-family:"Courier";
+border-spacing: 50px 5px;
+margin-left: 250px;
+margin-top:100px;}
+h2{color: Sienna;
+text-shadow: 1px 1px 0px #FFE4B5;font-family: "Monotype Corsiva";font-size: 170%}
+h3{color: Sienna;
+ text-shadow: 1px 1px 1px #FFE4B5;font-family: "Monotype Corsiva";font-size: 170%}
